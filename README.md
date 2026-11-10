@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**saoshyans/saoshyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saoshyans 👋
 
-Here are some ideas to get you started:
+### Aspiring Cloud Engineer ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Cloud Engineering, Linux, Networking, and Infrastructure.
+
+Currently learning through hands-on practice and building practical projects.
+
+## 🎯 Current Focus
+- 🐧 Linux Fundamentals
+- 🌐 Computer Networking
+- ☁️ Cloud Computing
+- 🔧 Git & GitHub
+- 🚀 Infrastructure & Automation
+
+## 🛠️ Technologies I'm Exploring
+- Linux
+- Git
+- Networking
+- Cloud Platforms
+
+## 📚 My Learning Journey
+I believe in learning by building.
+
+This GitHub profile is where I document my progress, experiments, and projects.
+
+
+*Building my skills, one project at a time.* 🚀
